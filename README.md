@@ -17,7 +17,7 @@ Instituição: Unifor
 | Nome do produto | Sistema de Apoio ao ENADE |
 | Versão / data | 1.0 / 03-11-2026 |
 | Situação | Versão inicial para validação com stakeholders |
-| Responsável | \[inserir nome da equipe\] |
+| Responsável | \[Grupo6\] |
 | Referência | Projeto de Extensão – ENADE: Engenharia de Requisitos Aplicada ao Contexto Educacional |
 
 # **1\. Propósito do documento**

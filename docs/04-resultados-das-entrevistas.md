@@ -30,13 +30,13 @@ A preencher após a análise das respostas dos estudantes.
 
 | Campo | Registro |
 |---|---|
-| Quantidade de participantes | A preencher |
-| Data das entrevistas | A preencher |
-| Interesse em participar voluntariamente | A preencher |
-| Disponibilidade de atendimento | A preencher |
-| Forma preferida de atendimento | A preencher |
-| Informações necessárias para acompanhar estudantes | A preencher |
-| Restrições identificadas | A preencher |
+| Quantidade de participantes | 3 professores |
+| Data das entrevistas | 17/11/2026 |
+| Interesse em participar voluntariamente |66,7% (2 de 3) afirmaram ter interesse; 33,3% (1 de 3) não têm disponibilidade no momento. |
+| Disponibilidade de atendimento | Não especificada |
+| Forma preferida de atendimento | ChatBot |
+| Informações necessárias para acompanhar estudantes | Mapeamento das dificuldades em conteúdos básicos, interpretação de texto e questões interdisciplinares/discursivas. |
+| Restrições identificadas |Falta de tempo dos docentes, necessidade de comprometimento com o cronograma e exigência de didática/domínio da matriz do ENADE para atuar na mentoria. |
 
 ### Síntese
 

@@ -40,23 +40,23 @@ A preencher após a análise das respostas dos estudantes.
 
 ### Síntese
 
-A preencher após a análise das respostas dos professores.
+As entrevistas apontam que as maiores dificuldades dos estudantes na preparação para o ENADE envolvem a ansiedade e a falta de organização na reta final do curso (concorrência com TCC e estágio), o esquecimento de conteúdos básicos e a dificuldade com questões discursivas e interdisciplinares. A maioria dos docentes (2 de 3) demonstrou interesse em atuar como voluntária, ressaltando que a seleção dos professores deve priorizar boa didática, empatia, domínio do estilo da prova e comprometimento real com os horários definidos[cite: 1, 2, 3, 4].
 
 ## 5. Entrevistas com a coordenação
 
 | Campo | Registro |
 |---|---|
-| Quantidade de participantes | A preencher |
-| Data das entrevistas | A preencher |
-| Processo atual de acompanhamento | A preencher |
-| Critérios para seleção dos estudantes | A preencher |
-| Critérios para seleção dos professores | A preencher |
-| Indicadores considerados importantes | A preencher |
-| Restrições institucionais | A preencher |
+| Quantidade de participantes | 1 representante (Coordenador Atila) |
+| Data das entrevistas | 26/11/2026 |
+| Processo atual de acompanhamento | Pontual e descentralizado: reuniões de orientação sobre o calendário do INEP, aplicação de simulados presenciais no semestre da prova e incentivo à abordagem de questões no estilo ENADE em sala de aula, sem monitoramento individual contínuo. |
+| Critérios para seleção dos estudantes | Não há triagem restritiva prévia; o foco é identificar precocemente, por meio da plataforma, estudantes com baixo rendimento para direcionar a mentoria voluntária. |
+| Critérios para seleção dos professores | Manifestação de interesse ou edital interno simples no início do semestre (validado pela coordenação), priorizando disponibilidade de carga horária, afinidade com as áreas da matriz do ENADE e histórico de didática. |
+| Indicadores considerados importantes | Taxa de acerto segmentada por área de conhecimento e disciplina, evolução das notas nos simulados, índice de engajamento (frequência de acesso e conclusão de atividades) e identificação de alunos com baixo desempenho. |
+| Restrições institucionais | Baixa adesão estudantil a encontros presenciais devido a choques de horário com estágios, sobrecarga administrativa da coordenação e limitação de carga horária disponível dos docentes voluntários. |
 
 ### Síntese
 
-A preencher após a análise das respostas da coordenação.
+A coordenação avalia que o modelo atual de acompanhamento carece de visibilidade em tempo real sobre a evolução individual dos estudantes e sofre com a baixa adesão às atividades presenciais por conflitos de horário com estágios. A adoção de uma plataforma centralizada com banco de questões, simulados e estatísticas de desempenho foi considerada estratégica para automatizar o monitoramento por área de conhecimento. Além disso, validou-se o uso de IA como primeiro nível de suporte para dúvidas rápidas, reservando o encaminhamento aos professores voluntários apenas para casos complexos, o que otimiza o tempo docente e evita sobrecarga[cite: 4, 5, 6, 7].
 
 ## 6. Consolidação dos resultados
 

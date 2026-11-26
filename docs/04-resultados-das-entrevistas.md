@@ -14,17 +14,17 @@ Os resultados abaixo não representam respostas reais. Este documento é um mode
 
 | Campo | Registro |
 |---|---|
-| Quantidade de participantes | A preencher |
-| Data das entrevistas | A preencher |
-| Principais dificuldades relatadas | A preencher |
-| Interesse no chatbot com IA | A preencher |
-| Interesse no atendimento humano | A preencher |
-| Recursos considerados mais úteis | A preencher |
-| Sugestões apresentadas | A preencher |
+| Quantidade de participantes | 3 estudantes |
+| Data das entrevistas | 17/11/2026 |
+| Principais dificuldades relatadas | Dificuldade em conciliar estudo e trabalho, domínio das matérias cobradas e falta de visibilidade sobre os principais erros cometidos para saber o que melhorar. |
+| Interesse no chatbot com IA | 66,7% (2 de 3) demonstraram interesse no uso de chatbot com IA para tirar dúvidas e explicar questões; 33,3% (1 de 3) não têm interesse. |
+| Interesse no atendimento humano | 100% (3 de 3) afirmaram que gostariam de solicitar ajuda diretamente a um professor caso a IA não resolvesse a dúvida. |
+| Recursos considerados mais úteis | Banco amplo de questões comentadas (explicação por item), links para materiais de estudo (estilo plataformas de concurso), disponibilidade de ajuda 24 horas e diagnóstico passo a passo dos erros. |
+| Sugestões apresentadas | Implementação de uma IA capaz de apontar exatamente onde o aluno errou na questão e ensinar o passo a passo para chegar ao acerto, além de disponibilizar materiais teóricos vinculados às questões. |
 
 ### Síntese
 
-A preencher após a análise das respostas dos estudantes.
+Os estudantes entrevistados ainda não utilizam plataformas ou simulados específicos para o ENADE (66,7% usam outros métodos e 33,3% não estudam por simulados) e enfrentam dificuldades ligadas à falta de tempo (conciliação com trabalho), domínio dos conteúdos e identificação das próprias falhas. Há boa adesão à proposta de suporte híbrido: 66,7% aprovam o uso de um chatbot com IA para apoio contínuo (24 horas) e 100% consideram essencial o encaminhamento para um professor quando a IA não sanar a dúvida, destacando como prioridades um banco de questões explicadas e feedback detalhado sobre os erros[cite: 8, 9, 12, 13, 14, 15].
 
 ## 4. Entrevistas com professores
 
@@ -47,7 +47,7 @@ As entrevistas apontam que as maiores dificuldades dos estudantes na preparaçã
 | Campo | Registro |
 |---|---|
 | Quantidade de participantes | 1 representante (Coordenador Atila) |
-| Data das entrevistas | 26/11/2026 |
+| Data das entrevistas | 19/11/2026 |
 | Processo atual de acompanhamento | Pontual e descentralizado: reuniões de orientação sobre o calendário do INEP, aplicação de simulados presenciais no semestre da prova e incentivo à abordagem de questões no estilo ENADE em sala de aula, sem monitoramento individual contínuo. |
 | Critérios para seleção dos estudantes | Não há triagem restritiva prévia; o foco é identificar precocemente, por meio da plataforma, estudantes com baixo rendimento para direcionar a mentoria voluntária. |
 | Critérios para seleção dos professores | Manifestação de interesse ou edital interno simples no início do semestre (validado pela coordenação), priorizando disponibilidade de carga horária, afinidade com as áreas da matriz do ENADE e histórico de didática. |
@@ -62,14 +62,10 @@ A coordenação avalia que o modelo atual de acompanhamento carece de visibilida
 
 | ID | Necessidade identificada | Origem | Requisito relacionado |
 |---|---|---|---|
-| NEC01 | A preencher | Estudantes | RF |
-| NEC02 | A preencher | Estudantes | RF |
-| NEC03 | A preencher | Professores | RF |
-| NEC04 | A preencher | Coordenação | RF |
-| NEC05 | A preencher | Coordenação | RNF/RN |
-
-## 7. Conclusão
-
-Após a realização das entrevistas, as informações deverão ser consolidadas e utilizadas para validar, alterar ou priorizar os requisitos inicialmente propostos.
+| NEC01 | Disponibilizar banco de questões no estilo ENADE com explicação detalhada dos itens, materiais de apoio vinculados e diagnóstico passo a passo dos erros. | Estudantes | RF |
+| NEC02 | Oferecer chatbot com IA disponível 24 horas para tirar dúvidas e explicar questões, com opção de encaminhamento para atendimento por um professor. | Estudantes | RF |
+| NEC03 | Disponibilizar trilhas de revisão focadas em conteúdos básicos e questões discursivas, além de permitir o cadastro e seleção de professores voluntários por disponibilidade e domínio da matriz do ENADE. | Professores | RF |
+| NEC04 | Disponibilizar painel analítico para a coordenação acompanhar taxas de acerto por área, evolução em simulados, engajamento e alunos com baixo rendimento. | Coordenação | RF |
+| NEC05 | Implementar triagem inicial de dúvidas via IA com encaminhamento para professores voluntários apenas em demandas complexas, otimizando a carga horária docente. | Coordenação | RF/RN |
 
 Qualquer alteração deverá ser refletida na especificação de requisitos e no backlog.
